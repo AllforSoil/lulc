@@ -5,7 +5,7 @@ The app use as the main sources>
 - Sentinel 2 Data
 
 The application serve to the purpose of comparison land use and land cover changes from 2016 to 2023 based on Sentinel 2 data
-Project Climate Resilience and Sustainable Water Management
+Project Climate Resilience and Sustainable Water Management, PIN and FRESAN
 Link to gee code: https://code.earthengine.google.com/4be09c87a3ab577a8e6f041282162add
 ******************************************************************/
 
